@@ -1,0 +1,31 @@
+
+.icon.data-v-4d8061dc{
+	/* background-color:#E0FFFF; */
+	
+	margin-top: 10rpx;
+	border-radius: 20rpx;
+	 display: flex; 
+	 flex-wrap: wrap; 
+	width: 100%;
+}
+.message.data-v-4d8061dc{
+	font-size: 18rpx;
+}
+.icon-item.data-v-4d8061dc{
+	display: flex;
+	flex-wrap: wrap;
+	/* 垂直方向上 对齐*/
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-top: 20rpx;
+	width: 25%;
+	height:180rpx;
+}
+.icon-img.data-v-4d8061dc{
+	width: 120rpx;
+	height: 120rpx;
+	border-radius: 30rpx;
+	margin-bottom: 10rpx;
+}
+
