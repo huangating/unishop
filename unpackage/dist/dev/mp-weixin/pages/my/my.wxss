@@ -1,0 +1,69 @@
+
+.my-top.data-v-0be17cc6{
+	text-align: center;
+	/* position: relative; */
+	width: 100%;
+	height: 400rpx;
+	background-color: #D9F0F9;
+}
+.my-img.data-v-0be17cc6{
+	text-align: center;
+	position: fixed;
+	left: 35%;
+	top: 5%;
+	/* margin-bottom: 30rpx; */
+}
+.out.data-v-0be17cc6{
+	font-size: 20rpx;
+	position: fixed;
+	left: 2%;
+	top: 2%;
+}
+.set.data-v-0be17cc6{
+	position: fixed;
+	right: 2%;
+	top: 2%;
+}
+.setting.data-v-0be17cc6{
+	width: 50rpx;
+	height: 50rpx;
+}
+.my-ph.data-v-0be17cc6{	
+	width: 200rpx;
+	height: 200rpx;
+	border-radius: 50%;
+}
+.name-my.data-v-0be17cc6{
+	margin-top: 10rpx;
+	/* font-size: 13rpx */
+}
+.shop-message.data-v-0be17cc6{
+	margin-top: 30rpx;
+	display: flex;
+	justify-content: space-around;
+}
+.one.data-v-0be17cc6{
+	text-align: center;
+}
+.text-my.data-v-0be17cc6{
+	font-size: 35rpx;
+}
+.icon-my.data-v-0be17cc6{
+	
+	width: 70rpx;
+	height: 70rpx;
+}
+.list-my.data-v-0be17cc6{
+	margin-top: 40rpx;
+}
+._li.data-v-0be17cc6{
+	margin-top: 10rpx;
+	font-size: 40rpx;
+	padding-left: 30rpx;
+	height: 80rpx;
+	line-height: 80rpx;
+list-style: none;
+background-color: #F5F6F6;
+	margin-bottom: 7rpx;
+}
+
