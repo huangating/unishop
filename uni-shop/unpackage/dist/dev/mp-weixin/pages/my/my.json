@@ -1,7 +1,0 @@
-{
-  "navigationStyle": "custom",
-  "navigationBarTitleText": "uni-shop",
-  "usingComponents": {
-    "tabber": "/components/common/Tabber"
-  }
-}
